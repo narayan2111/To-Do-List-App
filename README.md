@@ -3,6 +3,22 @@
 ## Overview
 The To-Do List App is a simple, user-friendly application designed to help you manage your tasks efficiently. This application allows you to add, delete, and mark tasks as completed. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to use.
 
+## Screenshots
+
+Home Page
+
+![Home Page](https://github.com/narayan2111/To-Do-List-App/assets/66173390/b36d0fd0-651d-44ac-bf03-88214bf0deae)     
+
+Added the Task
+
+![Added the task](https://github.com/narayan2111/To-Do-List-App/assets/66173390/cfad3c93-30d3-4a19-ac60-8796589c59b0)    
+
+Marked the task as completed
+
+![Marked the task as completed](https://github.com/narayan2111/To-Do-List-App/assets/66173390/45ca5529-5ae5-4d5f-91a3-b50b184e9953)
+
+
+
 ## Features
 - **Add Tasks**: Easily add new tasks to your to-do list.
 - **Delete Tasks**: Remove tasks that are no longer needed.
